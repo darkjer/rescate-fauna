@@ -1,7 +1,7 @@
 *.pyc
-
 *~
-__pycache__
+envdjango
 db.sqlite3
 /static
+__pycache__ 
 .DS_Store
